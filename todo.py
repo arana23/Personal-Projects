@@ -4,7 +4,8 @@
 # 
 # Total time to code: 1 hour 41 mins
 # Comments/Notes:
-# Very breakable-  no checkers for an out of range number
+# Very breakable-  
+#                  no checkers for an out of range number
 #                  had forgotten how to use enumerate 
 #                  raw_input vs input depends on python version
 #===============================================================================
